@@ -1,0 +1,51 @@
+*body{
+    box-sizing: border-box;
+    display: flex;
+    
+}
+body{
+    /* border: solid 5px red; */
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    overflow: hidden;
+    background-image:url("01-tesla-roadster-3840x2160-2020-4k-11250.jpeg");
+    background-size: cover;
+}
+aside{
+    /* border: solid 2px blue; */
+    border-radius: 20px;
+    width: 40vw;
+    height: 50vh;
+    display: inline-block;
+    margin-top: 25vh;
+    margin-left: 5vh;
+    margin-right: 5vh;
+    background-color:rgba(0, 0, 0, 0.418);
+    font-size: x-large;
+    text-align: center;
+    color: white;
+    
+}
+
+.aside_rendu{
+
+    font-size: xx-large;
+    align-content: center;
+    font-weight: bold;
+    width: 40vw;
+    height: 25vh;
+    margin-top: 37vh;
+    vertical-align: middle;
+    line-height: 8vh;
+}
+.style_boutton{
+  background-color: rgb(45, 112, 199);
+  font-weight: bold;
+  width: 100px;
+  height: 30px;
+  border-radius: 10px;
+}
+.style_checkbox{
+  
+}
