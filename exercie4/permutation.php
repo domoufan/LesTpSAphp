@@ -13,7 +13,7 @@
         ?>
 
         <center><h1>PERMUTATION</h1></center>
-        Le nombre N1 generer est <?php echo $n1?>
+        Le nombre N1 generer est <?php echo $n1."<br>"?>
         et le nombre N2 generer est <?php echo $n2?>
         
 

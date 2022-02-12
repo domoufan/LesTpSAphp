@@ -15,14 +15,14 @@ body{
 aside{
     /* border: solid 2px blue; */
     border-radius: 20px;
-    width: 40vw;
+    width: 45vw;
     height: 50vh;
     display: inline-block;
     margin-top: 45vh;
     margin-left: 1vh;
     margin-right: 5vh;
     background-color:rgba(0, 0, 0, 0.418);
-    font-size: x-large;
+    font-size: 2vmin;
     text-align: center;
     color: white;
     
@@ -30,10 +30,10 @@ aside{
 
 .aside_rendu{
 
-    font-size: x-large;
+    font-size: 2vmin;
     align-content: center;
     font-weight: bold;
-    width: 40vw;
+    width: 45vw;
     height: 50vh;
     margin-top: 17vh;
     margin-left: 20vw;

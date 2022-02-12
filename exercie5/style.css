@@ -16,25 +16,26 @@ body{
 aside{
     /* border: solid 2px blue; */
     border-radius: 20px;
-    width: 30vw;
-    height: 30vh;
+    width: 40vw;
+    height: 40vh;
     display: inline-block;
     background-color:rgba(255, 255, 255, 0.438);
-    font-size: x-large;
+    font-size: 3vmin;
     text-align: center;
     color: rgb(3, 3, 3);
+    line-height: 6vh;
     
 }
 
 .aside_rendu{
 
-    font-size: x-large;
+    font-size: 4vmin;
     justify-content: center;
     font-weight: bold;
-    width: 30vw;
-    height: 30vh;
+    width: 40vw;
+    height: 40vh;
     vertical-align: middle;
-    line-height: 10vh;
+    line-height: 8vh;
 }
 .style_boutton{
   background-color: rgb(45, 112, 199);

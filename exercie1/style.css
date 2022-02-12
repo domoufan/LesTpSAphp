@@ -15,14 +15,14 @@ body{
 aside{
     /* border: solid 2px blue; */
     border-radius: 20px;
-    width: 40vw;
-    height: 50vh;
+    width: 45vw;
+    height: 70vh;
     display: inline-block;
-    margin-top: 25vh;
-    margin-left: 5vh;
-    margin-right: 5vh;
+    margin-top: 5vh;
+    margin-left: 2vh;
+    margin-right: 2vh;
     background-color:rgba(0, 0, 0, 0.418);
-    font-size: x-large;
+    font-size: 4vmin;
     text-align: center;
     color: white;
     
@@ -30,10 +30,10 @@ aside{
 
 .aside_rendu{
 
-    font-size: xx-large;
+    font-size: 4vmin;
     align-content: center;
     font-weight: bold;
-    width: 40vw;
+    width: 45vw;
     height: 25vh;
     margin-top: 37vh;
     vertical-align: middle;
@@ -45,7 +45,4 @@ aside{
   width: 100px;
   height: 30px;
   border-radius: 10px;
-}
-.style_checkbox{
-  
 }
